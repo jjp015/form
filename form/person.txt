@@ -1,0 +1,3 @@
+First Name     Last Name      Street                        City                State  Zip Code  
+Jeremy         Park           123 Fake St                   Fremont             CA     94538     
+San Diego      Triton         9450 Gilman Dr                La Jolla            CA     92093     
